@@ -1,0 +1,16 @@
+build
+dist
+.venv
+.env
+.env*
+out/*.zip
+layer/shared.egg-info
+layer/shared/__pycache__
+.DS_Store
+out/functions
+out/layer
+cdk/*.js
+cdk/*.d.ts
+cdk/node_modules
+cdk/.cdk.staging
+cdk/cdk.out
